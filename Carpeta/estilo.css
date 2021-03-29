@@ -1,0 +1,50 @@
+@media screen and (max-width: 600px){
+	*{
+		width: 95%;
+		padding: 0;
+		margin: 5px 5px;
+		position: -webkit-static;
+		 top: 50%;
+		 left: 50%;
+	}
+}
+*{
+	padding: 0;
+
+
+}
+.titulo{
+	
+	color: #FFFFFF;
+	font-style:italic;
+	font-size: 14px ;
+}
+.contenedor{
+	color: #FFFFFF;
+	font-style:normal;
+	font-size:10px;	
+}
+.web{
+	color: #FFFFFF;
+	font-style:normal;
+	font-size:20px;	
+}
+body{
+	background-color: #FF8C00;
+	font-style:oblique;
+	font-size:14px;
+	text-align:left; 
+	color:#FFD700;
+}
+table{
+		background-color:#4682B4;
+}
+.registro{
+	text-decoration: none;
+    font-size: 18px;
+    line-height: 20px;
+    color: darkgray;
+}
+.registro :hover{
+	color: #ffffff;
+}
